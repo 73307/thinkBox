@@ -11,7 +11,12 @@ class HomeVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("HomeVCC")
+        print("Home0321")
+        print("Do any additional setup after loading the view.")
+        print("Do any additional setup after loading the view.")
+        print("Do any additional setup after loading the view.")
+        print("Do any additional setup after loading the view.")
         // Do any additional setup after loading the view.
     }
     
